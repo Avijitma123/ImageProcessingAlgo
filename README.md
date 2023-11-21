@@ -3,7 +3,7 @@
 #I have determined the optimal threshold value using the Softset concept, resulting in Maximally Stable Extremal Regions (MSER) for the given input image at the threshold value of 138. It's noteworthy that as I increment the threshold value beyond 138 to 139, the extremal regions persist in stability, indicating a robust representation under the adjusted threshold.
 
 
-Steps to follow to complete the thresholding process is—<br><br>
+Steps to follow to complete the thresholding process is—<br>
                STEP 1: At first I convert the grayscale image into binary image.<br>
                STEP 2: Next, I have pass the binary image into connectedComponentsWithStats() function. The connected component function will return ------<r>
                
