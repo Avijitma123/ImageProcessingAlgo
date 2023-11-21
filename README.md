@@ -5,7 +5,7 @@
 
 Steps to follow to complete the thresholding process is—<br>
                STEP 1: At first I convert the grayscale image into binary image.<br>
-               STEP 2: Next, I have pass the binary image into connectedComponentsWithStats() function. The connected component function will return ------<r>
+               STEP 2: Next, I have pass the binary image into connectedComponentsWithStats() function. The connected component function will return ------<br>
                
 1)	IDs of all unique connected components of the input image.
 2)	The starting x coordinate of the component.
