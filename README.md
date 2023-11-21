@@ -1,6 +1,6 @@
 # Soft-set MSER
 
-I have determined the optimal threshold value using the Softset concept, resulting in Maximally Stable Extremal Regions (MSER) for the given input image at the threshold value of 138. It's noteworthy that as I increment the threshold value beyond 138 to 139, the extremal regions persist in stability, indicating a robust representation under the adjusted threshold.
+#I have determined the optimal threshold value using the Softset concept, resulting in Maximally Stable Extremal Regions (MSER) for the given input image at the threshold value of 138. It's noteworthy that as I increment the threshold value beyond 138 to 139, the extremal regions persist in stability, indicating a robust representation under the adjusted threshold.
 
 
 Steps to follow to complete the thresholding process is—
